@@ -1,1 +1,1 @@
-web: rake jobs:work
+npm -Dserver.port=$PORT start
