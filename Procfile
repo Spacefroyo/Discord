@@ -1,1 +1,1 @@
-web: rake jobs:work
+worker: java -jar build/libs/Discord-all.jar $TOKEN
