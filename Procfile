@@ -1,1 +1,2 @@
-worker: java -jar build/libs/Discord-all.jar $TOKEN
+web: rake job:work
+worker: discord bot.4j
