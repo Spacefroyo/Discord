@@ -1,1 +1,0 @@
-web: rake jobs:work
